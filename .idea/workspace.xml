@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,42 +187,50 @@
       <option name="project" value="LOCAL" />
       <updated>1602209665517</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Launched the Phone Activity">
+      <created>1602210354794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602210354794</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the Store Information Activity Intent" />
     <MESSAGE value="Launched the Google Maps Activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Launched the Google Maps Activity" />
+    <MESSAGE value="Launched the Phone Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Launched the Phone Activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="191" key="AndroidCreateXmlResourceDialog" timestamp="1602209990759">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="537" y="191" key="AndroidCreateXmlResourceDialog/0.0.1366.768@0.0.1366.768" timestamp="1602209990759" />
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1602209662358">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1602210351763">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602209662358" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602210323859">
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602210351763" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602211254900">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602210323859" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602210323859">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602211254900" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602211254900">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602210323859" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602210323859">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602211254900" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602211254899">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602210323859" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602210323859">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602211254899" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602211254900">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602210323859" />
-    <state x="275" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602209690111">
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602211254900" />
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602210924954">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602209690111" />
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602210924954" />
   </component>
 </project>
