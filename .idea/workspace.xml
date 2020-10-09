@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602207435408</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Launched the Google Maps Activity">
+      <created>1602208285765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602208285765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,29 +189,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="Launched the Google Maps Activity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1602207431996">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1602208282797">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602207431996" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602205518531">
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602208282797" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602209447087">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602205518531" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602205518531">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602209447087" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602209447087">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602205518531" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602205518530">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602209447087" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602209447086">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602205518530" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602205518531">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602209447086" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602209447087">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602205518531" />
-    <state x="275" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602207451558">
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602209447087" />
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602208296234">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602207451558" />
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602208296234" />
   </component>
 </project>
