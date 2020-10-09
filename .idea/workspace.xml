@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602207054475</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Launched the Google Maps Activity">
+      <created>1602207435408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602207435408</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,10 +182,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Launched the Google Maps Activity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1602207051002">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1602207431996">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602207051002" />
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602207431996" />
     <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602205518531">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -195,9 +202,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602205518531" />
-    <state x="275" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602207067687">
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2" timestamp="1602207451558">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602207067687" />
+    <state x="275" y="113" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602207451558" />
   </component>
 </project>
